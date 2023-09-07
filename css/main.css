@@ -1,1 +1,41 @@
 /* Place CSS styles here */
+
+body { 
+    color: bisque;
+    background-color:blue;
+}
+
+img {
+    width:500 pix;
+}
+
+p {
+    color: crimson;
+}
+
+h2 { 
+    color: blueviolet;
+}
+
+.head1 {
+    background-color: deeppink;
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+
+}
+
+.pic1 { 
+    border-style: groove;
+    align-items: center;
+}
+
+.divclass1 {
+    text-align: center;
+}
+
+.artistbio {
+    text-align: center;
+    text-emphasis-style: bold;
+    text-size-adjust: 75;
+}
